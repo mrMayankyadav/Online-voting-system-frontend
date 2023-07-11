@@ -1,0 +1,26 @@
+.form-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 55vh;
+    width: 50vh;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.log-reg-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    width: 100%;
+    border-radius: 20px;
+    background-image: linear-gradient(rgb(89, 89, 235),  rgb(240, 85, 126));
+}
+
+.base{
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}

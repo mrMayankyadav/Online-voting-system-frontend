@@ -1,0 +1,12 @@
+.delete-page{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2%;
+}
+.delete-container{
+    padding: 2%;
+    min-height: 100%;
+    min-width: 50%;
+    border-radius: 20px;
+}
